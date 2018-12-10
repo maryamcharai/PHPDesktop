@@ -1,7 +1,7 @@
 # PHPDesktop
 
 introduction:
-PHP Desktop est un projet open source dans le but de développer des applications GUI de bureau natives utilisant des technologies Web 
+PHP Desktop est un projet dans le but de développer des applications GUI de bureau natives utilisant des technologies Web 
 telles que PHP, HTML5, JavaScript et SQLite. PHP Desktop est fondamentalement ce que Electron est, mais avec le support PHP ajouté.
 Vous créez une interface client dans JS / HTML5 et utilisez PHP pour des tâches principales telles que l'interaction avec le système
 d'exploitation, le système de fichiers et le traitement des données. Cela fonctionne donc de la même manière que votre application Web,
