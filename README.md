@@ -9,5 +9,4 @@ mais peut fonctionner et se comporter comme une application de bureau native.Tra
 bureau consiste essentiellement à le copier dans le répertoire "phpdesktop / ".
 PHP Desktop n'est pas conçu comme un environnement professionnel pour développer des applications bureautiques telles que celles
 développées dans le langage de programmation C ++. PHP Desktop est plutôt un outil graphique permettant de convertir facilement vos 
-applications Web PHP et vos outils CLI PHP en applications de bureau. Si vous avez une grande base de code PHP et souhaitez le réutiliser 
-sur votre ordinateur, il est logique d’utiliser PHP Desktop.
+applications Web PHP et vos outils CLI PHP en applications de bureau.
