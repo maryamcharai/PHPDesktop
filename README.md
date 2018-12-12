@@ -24,6 +24,8 @@ développées dans le langage de programmation C ++. </p>
 <p>Ce projet est réalisé dans un cadre universitaire,la phase de développement n'est pas terminée et ce projet est prévu à etre adapter à un module Omeka S par la suite  </p>
 
 
+<h2>Contact:</h2>
+<p>Maryamcharai@gmail.com. +336 38 06 16 40.<p>
 
 <h2>Copyright:</h2>
 <p>Copyright Charai Maryam, 2018-2019<p>
