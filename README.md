@@ -22,7 +22,8 @@ développées dans le langage de programmation C ++. </p>
 <h2>Notez bien :</h2>
 
 <p>Ce projet est réalisé dans un cadre universitaire,la phase de développement n'est pas terminée et ce projet est prévu à etre adapter à un module Omeka S par la suite  </p>
-
+<h2>Licence:</h2>
+<p>Open source pour utilisation de tous les projets</p>
 
 <h2>Contact:</h2>
 <p>Maryamcharai@gmail.com. +336 38 06 16 40.<p>
